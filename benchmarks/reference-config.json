@@ -1,0 +1,32 @@
+{
+  "families": [
+    "ghz",
+    "qft",
+    "qaoa",
+    "brickwork"
+  ],
+  "widths": [
+    4,
+    6
+  ],
+  "circuit_seeds": [
+    7,
+    19
+  ],
+  "depth": 2,
+  "train_count": 16,
+  "test_count": 24,
+  "train_seed": 2026,
+  "test_seed": 9026,
+  "train_sigma": 0.6,
+  "test_sigmas": [
+    0.2,
+    0.6,
+    1.0
+  ],
+  "beam_width": 12,
+  "max_rounds": 6,
+  "max_stretch": 2.0,
+  "tail_weight": 0.5,
+  "alpha": 0.8
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use QGuard, cite this repository and the relevant research separately."
+title: "QGuard: Robust Crosstalk-Aware Quantum Scheduling"
+type: software
+authors:
+  - name: "QGuard contributors"
+version: 0.1.0
+date-released: 2026-10-08
+url: "https://github.com/yoyocar2333/QGuard"
+repository-code: "https://github.com/yoyocar2333/QGuard"
+license: MIT

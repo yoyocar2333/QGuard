@@ -1,0 +1,44 @@
+{
+  "scope": "Exact only within precedence-augmented ASAP family",
+  "train_seed": 2026,
+  "train_count": 16,
+  "max_stretch": 2.0,
+  "rows": [
+    {
+      "circuit": "ghz-n4-d1-s7",
+      "conflict_pairs": 0,
+      "oracle_score": 0.03301656986969399,
+      "beam_score": 0.03301656986969399,
+      "relative_gap": 0.0,
+      "oracle_distinct_schedules": 1,
+      "oracle_seconds": 0.001027278000037768
+    },
+    {
+      "circuit": "qft-n4-d1-s7",
+      "conflict_pairs": 1,
+      "oracle_score": 0.06727346063088055,
+      "beam_score": 0.06727346063088055,
+      "relative_gap": 0.0,
+      "oracle_distinct_schedules": 3,
+      "oracle_seconds": 0.0058122740001635975
+    },
+    {
+      "circuit": "qaoa-n4-d1-s7",
+      "conflict_pairs": 4,
+      "oracle_score": 0.066070770022461,
+      "beam_score": 0.066070770022461,
+      "relative_gap": 0.0,
+      "oracle_distinct_schedules": 13,
+      "oracle_seconds": 0.029921331999958056
+    },
+    {
+      "circuit": "brickwork-n4-d1-s7",
+      "conflict_pairs": 1,
+      "oracle_score": 0.023049308870030157,
+      "beam_score": 0.023049308870030157,
+      "relative_gap": 0.0,
+      "oracle_distinct_schedules": 3,
+      "oracle_seconds": 0.009336579999853711
+    }
+  ]
+}
